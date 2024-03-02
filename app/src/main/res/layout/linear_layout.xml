@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/cats"
+        android:layout_width="439dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/black"
+        android:padding="16dp"
+        android:text="@string/cat"
+        android:textColor="@color/white"
+        android:textSize="@dimen/big" />
+
+    <TextView
+        android:id="@+id/cat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="16dp"
+        android:text="@string/milo"
+        android:textSize="16dp" />
+
+
+    <ImageView
+        android:id="@+id/cat_img"
+        android:layout_width="405dp"
+        android:layout_height="267dp"
+        android:layout_gravity="center"
+        android:src="@drawable/cat1" />
+
+    <Button
+        android:id="@+id/choice1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="@dimen/small"
+        android:text="@string/choice1" />
+
+    <ImageView
+        android:id="@+id/cat1_img"
+        android:layout_width="wrap_content"
+        android:layout_height="263dp"
+        android:layout_gravity="center"
+        android:src="@drawable/cat" />
+    <Button
+        android:id="@+id/choice2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="@dimen/small"
+        android:text="@string/choice2" />
+
+
+
+
+
+</LinearLayout>

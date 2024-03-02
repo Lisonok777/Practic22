@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practic22</string>
+    <string name="linear_layout">LINEAR LAYOUT</string>
+    <string name="type_sth">TYPE STH</string>
+    <string name="i_m_button">I\'m button</string>
+    <string name="relative_layout">RELATIVE LAYOUT</string>
+    <string name="constraint_layout">CONSTRAINT LAYOUT</string>
+    <string name="im_not_in_the_layout">i\'m not in the layout</string>
+    <string name="second_activity">SECOND ACTIVITY</string>
+    <string name="cat">Котик</string>
+    <string name="milo">Второе активити</string>
+    <string name="name">Введите имя для котика</string>
+    <string name="choice1">Этот котик</string>
+    <string name="choice2">Этот котик</string>
+    <string name="start">Добро пожаловать!</string>
+    <string name="start1">Здесь вы можете выбрать котика</string>
+    <string name="molodec">Вы молодец!</string>
+</resources>
